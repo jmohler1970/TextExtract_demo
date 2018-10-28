@@ -1,0 +1,9 @@
+/* Development */
+
+	Programmer: James Mohler
+	Contact: james [dot] mohler [at] me [dot] com
+	From: Orange County, California, USA
+
+
+/* Customer */
+	Sample Text Processing
